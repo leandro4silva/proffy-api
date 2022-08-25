@@ -1,4 +1,7 @@
+//config to heroku
+
 import dotenv from 'dotenv';
+
 
 dotenv.config();
 

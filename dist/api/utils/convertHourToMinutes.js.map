@@ -1,0 +1,1 @@
+{"version":3,"file":"convertHourToMinutes.js","sourceRoot":"","sources":["../../../api/utils/convertHourToMinutes.ts"],"names":[],"mappings":";;AAAA,SAAwB,oBAAoB,CAAC,IAAY;IACrD,MAAM,CAAC,IAAI,EAAE,OAAO,CAAC,GAAG,IAAI,CAAC,KAAK,CAAC,GAAG,CAAC,CAAC,GAAG,CAAC,MAAM,CAAC,CAAA;IACnD,MAAM,aAAa,GAAG,CAAC,IAAI,GAAG,EAAE,CAAC,GAAG,OAAO,CAAA;IAG3C,OAAO,aAAa,CAAA;AACxB,CAAC;AAND,uCAMC"}

@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "tsc && node dist/api/server.js",
     "start": "node dist/api/server.js",
-    "postinstall": "tsc",
+    "postinstall": "tsc && knex:migrate",
     "knex:migrate": "knex --knexfile dist/knexfile.ts migrate:latest"
   },
   "devDependencies": {
